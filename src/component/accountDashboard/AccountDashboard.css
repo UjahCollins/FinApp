@@ -1,0 +1,13 @@
+.hatlabel{
+  color: rgba(255, 255, 255, 0.442);
+}
+.eye{
+  width: 20px;
+  height: 20px;
+}
+.BalanceHolder{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}

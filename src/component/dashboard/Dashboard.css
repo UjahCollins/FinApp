@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.MainCOntainer{
+  width: 100%;
+  height: 100vh;
+  background-color: #642c9d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+
+}
+.sidebar{
+  width: 20%;
+  height: 100%;
+  background-color: whitesmoke;
+}
+.contentPage{
+  width: 79.9%;
+  height: 100%;
+  background-color: #dfd7e8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5%;
+}
+.Header{
+  width: 100%;
+  height: 15%;
+  background-color: whitesmoke;
+}
+.accountDashboard{
+  width: 80%;
+  height: 20%;
+  background-color: #642C9D;
+  border-radius: 10px;
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+}
+.TransactionDashboard{
+  width: 80%;
+  height: 55%;
+  background: whitesmoke;
+  border: solid 2px #642C9D;
+  border-radius: 10px;
+}
+.TransactionDashboardHolder{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+
+}
+

@@ -8,8 +8,8 @@ import TransactionDashboard from '../transactionDashboard/TransactionDashboard';
 import Deposit from '../deposit/Deposit';
 import Withdrawal from '../wihdrawal/Withdrawal';
 import Transfer from '../transfer/Transfer';
-import TransferPage2 from '../transfer/TransferPage2';
-import TransferPage1 from '../transfer/TransferPage1';
+// import TransferPage2 from '../transfer/TransferPage2';
+// import TransferPage1 from '../transfer/TransferPage1';
 import AccountProfile from '../accountProfile/AccountProfile';
 import Utilities from '../utilities/Utilities';
 

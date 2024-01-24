@@ -5,7 +5,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import PrivatePage from './component/privatePage/PrivatePage';
 import Dashboard from './component/dashboard/Dashboard';
 import SignupTwo from './component/signup/SignupTwo';
-import { useState } from 'react';
+// import { useState } from 'react';
 
 function App() {
   
